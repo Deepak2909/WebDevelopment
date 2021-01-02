@@ -1,0 +1,39 @@
+body{
+    background-image:url("../pics/1582804864phpq24JjK.jpeg");
+    background-repeat: repeat;
+/background-size:500px 500px/
+}
+div{
+    border:10px red solid;
+    
+margin:300px;
+padding: 300px;
+color:black;
+width:300px;
+display:inline-block;
+}
+#div1{
+   position: absolute;
+    height:100px;
+    width:100px;
+background-color:lightblue/;
+background-image:none;
+color:yellow;
+margin:0px;
+padding:0px;
+overflow:auto;
+float:left;
+}
+/*#childdiv{
+   position: absolute;
+    height:100px;
+    width:100px;
+background-color:lightblue/;
+background-image:none;
+color:orchid;
+margin:0px;
+padding:0px;
+overflow:auto;
+float:left;*/
+
+}
